@@ -52,8 +52,3 @@ I focused on creating a text-based, easy-to-read layout with supporting images a
 - 🎨 **CSS3** — Styling and layout  
 - 🖼️ **Images & Tables** — For better visualization  
 - 📁 **Multi-page structure** — Linked with a navbar
-
----
-
-## 📂 Project Structure
-
